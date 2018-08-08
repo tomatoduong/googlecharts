@@ -1,1 +1,11 @@
-{"id": 1, "name": "Bitcoin", "symbol": "BTC", "slug": "bitcoin", "circulating_supply": 17188412, "total_supply": 17188412, "max_supply": 21000000, "date_added": "2013-04-28T00:00:00.000Z", "num_markets": 326, "cmc_rank": 1, "last_updated": "2018-08-03T22:38:29.000Z", "quote": {"USD": {"price": 7441.74776248, "volume_24h": 4621862585.48833, "percent_change_1h": -0.126431, "percent_change_24h": -1.68083, "percent_change_7d": -9.28784, "market_cap": 127911826541.58438, "last_updated": "2018-08-03T22:38:29.000Z"}}}
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
